@@ -9,4 +9,4 @@ const wrapAdjective = function(symbol = "*"){
     return function(adjective = "special"){
         return `You are ${symbol}${adjective}${symbol}!`
     }
-}su
+}
